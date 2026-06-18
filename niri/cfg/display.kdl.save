@@ -1,0 +1,40 @@
+// ────────────── Output Configuration ──────────────
+// You can run `niri msg outputs` to get the correct name for your displays.
+// You will have to remove "/-" and edit it before it takes effect.
+// https://github.com/YaLTeR/niri/wiki/Configuration:-Outputs
+
+ output "DP-1" {
+    mode "2560x1440@180.00" // Set resolution and refresh rate
+    scale 1.5 // No scaling (use 2 for HiDPI)
+    variable-refresh-rate
+   
+   
+}
+ output "eDP-1"{
+   mode "2560x1600@240.02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+   scale 1.25
+   transform "normal"   
+ variable-refresh-rate
+}
+  

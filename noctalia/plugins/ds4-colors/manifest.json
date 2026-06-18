@@ -1,0 +1,28 @@
+{
+  "id": "ds4-colors",
+  "name": "DS4 Colors",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.6.6",
+  "author": "Hy4ri",
+  "license": "MIT",
+  "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+  "description": "Change the lightbar color of your DualShock 4 or DualSense controller with a color picker and recent color history.",
+  "tags": [
+    "Hardware",
+    "Gaming",
+    "Bar"
+  ],
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml",
+    "settings": "Settings.qml"
+  },
+  "metadata": {
+    "defaultSettings": {
+      "color": "#0064ff",
+      "colorIcon": false,
+      "hideOnEmpty": false,
+      "recentColors": []
+    }
+  }
+}

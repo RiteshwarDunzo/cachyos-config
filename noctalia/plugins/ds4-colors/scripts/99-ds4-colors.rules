@@ -1,0 +1,6 @@
+# DS4/DualSense Lightbar Control - udev rule
+# Grants write access to the brightness file of PlayStation controller LEDs
+# for users in the 'ds4_colors' group.
+SUBSYSTEM=="leds", KERNEL=="*:*:*:*", KERNELS=="*054C:*", \
+    RUN+="/bin/chgrp ds4_colors /sys$devpath/brightness", \
+    RUN+="/bin/chmod g+w /sys$devpath/brightness"

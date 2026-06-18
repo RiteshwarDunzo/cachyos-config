@@ -1,0 +1,6 @@
+2026/06/14-15:09:08.420 1a13a Reusing MANIFEST /home/riteshwar/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/06/14-15:09:08.422 1a13a Recovering log #59
+2026/06/14-15:09:08.423 1a13a Reusing old log /home/riteshwar/.config/vesktop/sessionData/Local Storage/leveldb/000059.log 
+2026/06/14-15:10:08.427 1a13a Level-0 table #63: started
+2026/06/14-15:10:08.429 1a13a Level-0 table #63: 40490 bytes OK
+2026/06/14-15:10:08.430 1a13a Delete type=0 #59
