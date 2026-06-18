@@ -50,30 +50,7 @@ chmod +x install.sh
 * NVIDIA GeForce RTX 4070 Laptop GPU
 * Intel Arc Integrated Graphics
 * 32GB RAM
-
-## Software
-
-### Operating System
-
-* CachyOS
-* Wayland
-
-### Core Components
-
-* Noctalia
-* Niri
-* Fastfetch
-* Kitty
-* EasyEffects
-* Btop
-* Cava
-* Vesktop
-* Neovim
-* Zsh
-* Powerlevel10k
-
----
-
+* 
 ## Features
 
 * Noctalia desktop environment
