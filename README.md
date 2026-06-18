@@ -234,17 +234,6 @@ GRUB themes are sourced from the Gorgeous GRUB collection by Jacksaur.
 
 https://github.com/Jacksaur/Gorgeous-GRUB
 
-### Other Projects
-
-* CachyOS
-* Niri
-* Catppuccin
-* Kitty
-* Fastfetch
-* EasyEffects
-* Powerlevel10k
-* Neovim
-
 Huge thanks to all maintainers and contributors.
 
 ---
