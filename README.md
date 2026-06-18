@@ -1,3 +1,8 @@
+!LOGO(/home/riteshwar/Pictures/photos/cachyos.jpg)
+
+
+
+
 # CachyOS Configuration - ASUS ROG Zephyrus G16
 
 A heavily customized CachyOS setup built around:
