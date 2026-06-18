@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/cachyos.jpg" width="200">
-</p>
-
 
 
 
