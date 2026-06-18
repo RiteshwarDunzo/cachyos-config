@@ -1,4 +1,6 @@
-!LOGO(/home/riteshwar/Pictures/photos/cachyos.jpg)
+<p align="center">
+  <img src="screenshots/logo.jpg" width="200">
+</p>
 
 
 
