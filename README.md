@@ -179,15 +179,15 @@ sudo pacman -S --needed - < packages/packages.txt
 ---
 ## Screenshots
 
-### Desktop - Rice 1
+### Desktop 
 
 ![Rice 1](screenshots/rice1.png)
 
-### Desktop - Rice 2
+
 
 ![Rice 2](screenshots/rice2.png)
 
-### Desktop - Rice 3
+
 
 ![Rice 3](screenshots/rice3.png)
 
