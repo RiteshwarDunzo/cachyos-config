@@ -36,6 +36,7 @@ chmod +x install.sh
 * Kitty Terminal
 * Fastfetch
 * Zsh + Powerlevel10k
+* Helium browser
 
 ## Hardware
 
