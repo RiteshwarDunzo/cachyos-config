@@ -107,7 +107,6 @@ echo "- Niri + Noctalia"
 echo "- Catppuccin theme"
 echo
 echo "You may need to:"
-echo "- Restart Waybar"
 echo "- Restart Niri"
 echo "- Log out and back in"
 echo
