@@ -15,7 +15,7 @@ Designed specifically for an ASUS ROG Zephyrus G16 with an RTX 4070 and Intel Ar
 ## Quick Installation
 
 ```bash
-git clone https://github.com/<your-username>/cachyos-config.git
+git clone https://github.com/RiteshwarDunzo/cachyos-config.git
 cd cachyos-config
 
 chmod +x install.sh
@@ -177,6 +177,29 @@ sudo pacman -S --needed - < packages/packages.txt
 ```
 
 ---
+## Screenshots
+
+### Desktop - Rice 1
+
+![Rice 1](screenshots/rice1.png)
+
+### Desktop - Rice 2
+
+![Rice 2](screenshots/rice2.png)
+
+### Desktop - Rice 3
+
+![Rice 3](screenshots/rice3.png)
+
+### SDDM
+
+![SDDM](screenshots/sddm.png)
+
+### GRUB
+
+![GRUB](screenshots/grub.png)
+
+
 ## Zsh Requirements
 
 This setup expects:
