@@ -104,18 +104,6 @@ Included custom scripts for:
 * Refresh-rate management
 * Multi-monitor workflow
 
-### Display Configuration
-
-Internal Display:
-
-* 2560×1600 @ 240Hz
-
-External Display:
-
-* 2560×1440 @ 180Hz
-
----
-
 ## Included Configurations
 
 * Niri
@@ -159,7 +147,6 @@ External Display:
 ├── wallpapers/
 ├── zsh/
 ├── install.sh
-├── LICENSE
 └── README.md
 ```
 
