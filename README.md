@@ -50,7 +50,7 @@ chmod +x install.sh
 * NVIDIA GeForce RTX 4070 Laptop GPU
 * Intel Arc Integrated Graphics
 * 32GB RAM
-* 
+  
 ## Features
 
 * Noctalia desktop environment
