@@ -2,3 +2,5 @@
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Miscellaneous#spawn-sh-at-startup
 
     spawn-sh-at-startup "qs -c noctalia-shell"
+    spawn-at-startup "/home/riteshwar/.local/bin/external-monitor.sh"
+    spawn-at-startup "bash" "-c" "~/.local/bin/refresh-rate-auto.sh"
