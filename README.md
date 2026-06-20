@@ -149,6 +149,8 @@ Install these before applying the Zsh configuration.
 
 The overall desktop experience is based on the Noctalia ecosystem running on Wayland with Niri.
 
+https://github.com/noctalia-dev/noctalia
+
 ### SDDM Themes
 
 Most SDDM themes included or adapted in this repository originate from the Qylock theme collection by Darkkal44.
