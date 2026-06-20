@@ -27,22 +27,6 @@ chmod +x install.sh
 
 ---
 
-## Desktop Environment
-
-### Theme Stack
-
-* Noctalia Session
-* Niri Window Manager
-* Catppuccin Color Palette
-* SDDM (Qylock Themes)
-* GRUB (Gorgeous GRUB Themes)
-* Kitty Terminal
-* Fastfetch
-* Zsh + Powerlevel10k
-* Helium browser
-
-## Hardware
-
 ### Laptop
 
 * ASUS ROG Zephyrus G16 (GU605MI)
@@ -80,27 +64,6 @@ Included custom scripts for:
 * External monitor detection
 * Refresh-rate management
 * Multi-monitor workflow
-
-## Included Configurations
-
-* Niri
-* Noctalia
-* Kitty
-* Fastfetch
-* Btop
-* Cava
-* EasyEffects
-* Neovim
-* Vesktop
-* Zsh
-* Powerlevel10k
-* Wallpapers
-* Fonts
-* SDDM
-* GRUB
-* Scripts
-
----
 
 ## Repository Structure
 
