@@ -30,7 +30,7 @@ chmod +x install.sh
 ### Laptop
 
 * ASUS ROG Zephyrus G16 (GU605MI)
-* Intel Core Ultra 9
+* Intel Core Ultra 9 185H
 * NVIDIA GeForce RTX 4070 Laptop GPU
 * Intel Arc Integrated Graphics
 * 32GB RAM
