@@ -1,7 +1,8 @@
 
 
 
-# CachyOS Configuration - ASUS ROG Zephyrus G16
+# CachyOS Configuration 
+- ASUS ROG Zephyrus G16
 
 A heavily customized CachyOS setup built around:
 
